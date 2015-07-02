@@ -12,7 +12,7 @@ Jonatan _'Southpaw'_ Sundqvist
 Rules
 =====
 
-* The HackaSprint begins at 13:00 GMT and ends at 21:00 GMT on Friday, July 3 2015
+* The HackaSprint begins at 13:00 GMT and ends at 21:00 GMT on Saturday, July 4 2015
 
 * The objective is to create a _usable_ application within the given time frame
 * Participants should include a README which outlines the intended purpose and functionality
