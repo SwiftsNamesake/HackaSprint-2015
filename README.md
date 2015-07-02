@@ -2,6 +2,12 @@
 A gentle scurry in the brisk summer rain, halfway to finish line.
 
 
+Participants
+============
+Jayant _'the Shiv'_ Shivarajan
+Jonatan _'Southpaw'_ Sundqvist
+
+
 Rules
 =====
 
